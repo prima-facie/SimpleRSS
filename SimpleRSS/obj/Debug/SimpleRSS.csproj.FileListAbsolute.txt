@@ -1,0 +1,10 @@
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\SimpleRSS\SimpleRSS\bin\Debug\SimpleRSS.exe.config
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\SimpleRSS\SimpleRSS\bin\Debug\SimpleRSS.exe
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\SimpleRSS\SimpleRSS\bin\Debug\SimpleRSS.pdb
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\SimpleRSS\SimpleRSS\obj\Debug\SimpleRSS.csprojAssemblyReference.cache
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\SimpleRSS\SimpleRSS\obj\Debug\SimpleRSS.MainForm.resources
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\SimpleRSS\SimpleRSS\obj\Debug\SimpleRSS.Properties.Resources.resources
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\SimpleRSS\SimpleRSS\obj\Debug\SimpleRSS.csproj.GenerateResource.cache
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\SimpleRSS\SimpleRSS\obj\Debug\SimpleRSS.csproj.CoreCompileInputs.cache
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\SimpleRSS\SimpleRSS\obj\Debug\SimpleRSS.exe
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\SimpleRSS\SimpleRSS\obj\Debug\SimpleRSS.pdb
